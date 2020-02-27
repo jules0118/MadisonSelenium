@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="487456eb-142c-410b-a97e-a2103c991d54" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y4ZYY9hVn8YOYDQvn2ZrKxHcsf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Selectdriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MadisonTest.Checkout">
+    <configuration name="MadisonTest.Checkout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MadisonTest" />
+      <option name="METHOD_NAME" value="Checkout" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MadisonTest.Navigation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MadisonTest" />
+      <option name="METHOD_NAME" value="Navigation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MadisonTest.checkNavigationMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MadisonTest" />
+      <option name="METHOD_NAME" value="checkNavigationMenu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MadisonTest.checkSaleNavigation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MadisonTest" />
+      <option name="METHOD_NAME" value="checkSaleNavigation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MadisonTest.checkSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MadisonTest" />
+      <option name="METHOD_NAME" value="checkSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MadisonTest.Checkout" />
+        <item itemvalue="JUnit.MadisonTest.checkNavigationMenu" />
+        <item itemvalue="JUnit.MadisonTest.checkSaleNavigation" />
+        <item itemvalue="JUnit.MadisonTest.Navigation" />
+        <item itemvalue="JUnit.MadisonTest.checkSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="487456eb-142c-410b-a97e-a2103c991d54" name="Default Changelist" comment="" />
+      <created>1582203874075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582203874075</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="202" key="GridCell.Tab.0.bottom" timestamp="1582788246986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582788246986" />
+    <state width="1323" height="202" key="GridCell.Tab.0.center" timestamp="1582788246986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582788246986" />
+    <state width="1323" height="202" key="GridCell.Tab.0.left" timestamp="1582788246986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582788246986" />
+    <state width="1323" height="202" key="GridCell.Tab.0.right" timestamp="1582788246986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582788246986" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1582206010422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582206010422" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1582702028963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582702028963" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1582287854962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582287854962" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582271983456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582271983456" />
+  </component>
+</project>
